@@ -1,0 +1,25 @@
+.kutu {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+#mavi {
+    background-color: blue;
+    display: inline-block;
+}
+
+#kirmizi {
+    background-color: red;
+    display: inline-block;
+}
+
+#sari {
+    background-color: yellow;
+    display: inline-block;
+}
+
+#btn {
+    display: block;
+}
+
